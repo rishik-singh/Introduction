@@ -1,5 +1,5 @@
 <hr/>
-<h1 align="center">Hi 👋, I'm Ankit Raj</h1>
+<h1 align="center">Hi 👋, I'm Rishik singh</h1>
 <!--
 <h3 align="center">I'm Ankit Raj, currently pursuing a Bachelor's degree in Computer Science and Engineering from Noida Institute of Engineering and Technology (NIET), Greater Noida. Passionate about leveraging technology to solve real-world problems and drive innovation, I have developed a strong foundation in programming languages such as Python and Java, and proficiency in web development, including the MERN stack. My journey in technology has led me to explore the fascinating field of machine learning, where I am actively honing my skills to develop innovative solutions. I continuously seek opportunities to expand my knowledge and enjoy collaborating with peers on challenging projects that push the boundaries of what's possible. Driven by a pursuit of excellence and a desire to make a positive impact in the tech industry.</h3> -->
 
